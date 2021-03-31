@@ -94,6 +94,7 @@ DIR *dir;
 2）define：定义宏。<br>
 >无参数宏：相当于替换；<br>
 >带参数宏；<br>
+
 3）条件编译：ifdef和ifndef，在预编译的时候判断。ifndef，用来防止重复包含头文件。<br>
 #### 2、main函数参数：argc,argv,envp
 ```c
