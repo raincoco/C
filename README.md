@@ -152,6 +152,9 @@ void set(char* p);
 void set((char* ) p);
 ```
 该函数需要一个（char* ）型的变量p（指针变量）。<br>
+<br>
+<br>
+<br>
 
 ## C++语言基础
 ### 一、C++程序命名
